@@ -1,16 +1,14 @@
-## Hi there 👋
+🔭 I’m currently working on a **personal portfolio website to showcase my latest software projects**.
 
-<!--
-**General-66/General-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤝 I’m looking to collaborate on **innovative software solutions and .NET based applications**.
 
-Here are some ideas to get you started:
+👐 I’m looking for help with **exploring advanced architecture design and data modeling**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning how to **integrate AI models into mobile applications**.
+
+📫 You can reach me through **my email or personal website**.
+
+💬 Ask me about **C#, SQL, JavaScript, and Quality Assurance Testing**.
+
+⚡ Fun fact **I demonstrate C# programming to university students**.
+
